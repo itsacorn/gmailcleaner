@@ -1,0 +1,12 @@
+{
+  "name": "gmailcleaner",
+  "version": "1.0.2",
+  "description": "Clean emails of pesky tricks to bypass spam filters.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "acorn",
+  "license": "MIT"
+}
