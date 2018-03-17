@@ -2,6 +2,8 @@
 
 Clean emails of pesky tricks to bypass spam filters.
 
+[![NPM](https://nodei.co/npm/gmailcleaner.png)](https://nodei.co/npm/gmailcleaner/)
+
 ## Basic Usage
 
 Install gmailcleaner using NPM:
