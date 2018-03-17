@@ -1,6 +1,6 @@
 {
   "name": "gmailcleaner",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Clean emails of pesky tricks to bypass spam filters.",
   "main": "index.js",
   "repository": {
